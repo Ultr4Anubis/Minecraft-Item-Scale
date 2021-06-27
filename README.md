@@ -1,4 +1,4 @@
-# Minecraft-Item-Sclae
+# Minecraft-Item-Scale
 Python code to generate scale for post 1.16.100 items
 
 In order to use the Scale generator, please only input the first number of your scale. For example, if you are using 256x256 resolution, then input 256.
