@@ -1,6 +1,6 @@
 import json
 print('Thankyou for using my scale generator.')
-res = int(input('Please enter your resolution. For example, if your using a 128x128 resolution, only input 128! '))
+res = int(input('Please enter your resolution. For example, if you're using a 128x128 resolution, only input 128! '))
 
 ## Equation 1= 0.075/(texture_resolution/16)
 ## Equation 2= 0.125/(texture_resolution/16)
