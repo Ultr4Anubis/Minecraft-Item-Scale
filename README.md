@@ -28,7 +28,7 @@ This was my first solo python project I have created. It has allowed me to impor
 Here's why this project is useful:
 * Is script automates a very boring and tedious task that no-one wants to do
 * It takes about 2 seconds to generate your scale values
-* It automatically put your values into the `render_offset` component ready for you to just copy and paste into your code. :smile:
+* It automatically puts your values into the `render_offset` component ready for you to just copy and paste into your code. :smile:
 
 <!-- ADDITIONAL INFORMATION -->
 ## Additional Information
